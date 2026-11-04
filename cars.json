@@ -1,10 +1,10 @@
 {
   "collection": "Galeria Automotiva — Brasil",
-  "version": 3,
+  "version": 4,
   "manifestUrl": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/cars.json",
   "download": {
     "filename": "galeria-automotiva-todos-png-transparente.zip",
-    "count": 30,
+    "count": 40,
     "format": "ZIP",
     "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/downloads/galeria-automotiva-todos-png-transparente.zip",
     "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/downloads/galeria-automotiva-todos-png-transparente.zip"
@@ -24,6 +24,11 @@
       "collection": "Ford e GWM",
       "count": 10,
       "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/downloads/ford-gwm-carros-png-transparente.zip"
+    },
+    {
+      "collection": "GWM e Honda",
+      "count": 10,
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/downloads/gwm-honda-carros-png-transparente.zip"
     }
   ],
   "licenseNote": "Imagens geradas por IA para uso visual ilustrativo.",
@@ -447,6 +452,146 @@
       "height": 941,
       "transparent": true,
       "alt": "GWM Haval H9 2027 em vista dianteira de três quartos"
+    },
+    {
+      "id": "gwm-ora-03-2026",
+      "name": "GWM Ora 03",
+      "year": 2026,
+      "bodyType": "Hatch",
+      "filename": "gwm-ora-03-2026.png",
+      "image": "assets/cars/gwm-ora-03-2026.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/gwm-ora-03-2026.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/gwm-ora-03-2026.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "GWM Ora 03 2026 em vista dianteira de três quartos"
+    },
+    {
+      "id": "gwm-ora-5",
+      "name": "GWM Ora 5",
+      "year": "Atual",
+      "bodyType": "SUV",
+      "filename": "gwm-ora-5.png",
+      "image": "assets/cars/gwm-ora-5.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/gwm-ora-5.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/gwm-ora-5.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "GWM Ora 5 em vista dianteira de três quartos"
+    },
+    {
+      "id": "gwm-poer-p30-2027",
+      "name": "GWM Poer P30",
+      "year": 2027,
+      "bodyType": "Picape",
+      "filename": "gwm-poer-p30-2027.png",
+      "image": "assets/cars/gwm-poer-p30-2027.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/gwm-poer-p30-2027.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/gwm-poer-p30-2027.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "GWM Poer P30 2027 em vista dianteira de três quartos"
+    },
+    {
+      "id": "gwm-tank-300-2027",
+      "name": "GWM Tank 300",
+      "year": 2027,
+      "bodyType": "SUV",
+      "filename": "gwm-tank-300-2027.png",
+      "image": "assets/cars/gwm-tank-300-2027.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/gwm-tank-300-2027.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/gwm-tank-300-2027.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "GWM Tank 300 2027 em vista dianteira de três quartos"
+    },
+    {
+      "id": "gwm-wey-07-2027",
+      "name": "GWM Wey 07",
+      "year": 2027,
+      "bodyType": "SUV",
+      "filename": "gwm-wey-07-2027.png",
+      "image": "assets/cars/gwm-wey-07-2027.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/gwm-wey-07-2027.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/gwm-wey-07-2027.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "GWM Wey 07 2027 em vista dianteira de três quartos"
+    },
+    {
+      "id": "honda-accord-2026",
+      "name": "Honda Accord",
+      "year": 2026,
+      "bodyType": "Sedã",
+      "filename": "honda-accord-2026.png",
+      "image": "assets/cars/honda-accord-2026.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/honda-accord-2026.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/honda-accord-2026.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Honda Accord 2026 em vista dianteira de três quartos"
+    },
+    {
+      "id": "honda-city-2027",
+      "name": "Honda City",
+      "year": 2027,
+      "bodyType": "Sedã",
+      "filename": "honda-city-2027.png",
+      "image": "assets/cars/honda-city-2027.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/honda-city-2027.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/honda-city-2027.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Honda City 2027 em vista dianteira de três quartos"
+    },
+    {
+      "id": "honda-city-hatchback-2027",
+      "name": "Honda City Hatchback",
+      "year": 2027,
+      "bodyType": "Hatch",
+      "filename": "honda-city-hatchback-2027.png",
+      "image": "assets/cars/honda-city-hatchback-2027.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/honda-city-hatchback-2027.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/honda-city-hatchback-2027.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Honda City Hatchback 2027 em vista dianteira de três quartos"
+    },
+    {
+      "id": "honda-civic-2027",
+      "name": "Honda Civic",
+      "year": 2027,
+      "bodyType": "Sedã",
+      "filename": "honda-civic-2027.png",
+      "image": "assets/cars/honda-civic-2027.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/honda-civic-2027.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/honda-civic-2027.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Honda Civic 2027 em vista dianteira de três quartos"
+    },
+    {
+      "id": "honda-cr-v-2026",
+      "name": "Honda CR-V",
+      "year": 2026,
+      "bodyType": "SUV",
+      "filename": "honda-cr-v-2026.png",
+      "image": "assets/cars/honda-cr-v-2026.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/honda-cr-v-2026.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/honda-cr-v-2026.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Honda CR-V 2026 em vista dianteira de três quartos"
     }
   ]
 }
