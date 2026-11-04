@@ -1,10 +1,10 @@
 {
   "collection": "Galeria Automotiva — Brasil",
-  "version": 10,
+  "version": 11,
   "manifestUrl": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/cars.json",
   "download": {
     "filename": "galeria-automotiva-todos-png-transparente.zip",
-    "count": 100,
+    "count": 110,
     "format": "ZIP",
     "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/downloads/galeria-automotiva-todos-png-transparente.zip",
     "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/downloads/galeria-automotiva-todos-png-transparente.zip"
@@ -59,6 +59,11 @@
       "collection": "Toyota e Volkswagen",
       "count": 10,
       "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/downloads/toyota-volkswagen-carros-png-transparente.zip"
+    },
+    {
+      "collection": "Volkswagen",
+      "count": 10,
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/downloads/volkswagen-carros-png-transparente.zip"
     }
   ],
   "licenseNote": "Imagens geradas por IA para uso visual ilustrativo.",
@@ -1462,6 +1467,146 @@
       "height": 941,
       "transparent": true,
       "alt": "Volkswagen Amarok 2026 em vista dianteira de três quartos"
+    },
+    {
+      "id": "volkswagen-golf-2026",
+      "name": "Volkswagen Golf",
+      "year": 2026,
+      "bodyType": "Hatch",
+      "filename": "volkswagen-golf-2026.png",
+      "image": "assets/cars/volkswagen-golf-2026.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/volkswagen-golf-2026.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/volkswagen-golf-2026.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Volkswagen Golf 2026 em vista dianteira de três quartos"
+    },
+    {
+      "id": "volkswagen-id-4-2027",
+      "name": "Volkswagen ID.4",
+      "year": 2027,
+      "bodyType": "SUV",
+      "filename": "volkswagen-id-4-2027.png",
+      "image": "assets/cars/volkswagen-id-4-2027.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/volkswagen-id-4-2027.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/volkswagen-id-4-2027.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Volkswagen ID.4 2027 em vista dianteira de três quartos"
+    },
+    {
+      "id": "volkswagen-jetta-2026",
+      "name": "Volkswagen Jetta",
+      "year": 2026,
+      "bodyType": "Sedã",
+      "filename": "volkswagen-jetta-2026.png",
+      "image": "assets/cars/volkswagen-jetta-2026.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/volkswagen-jetta-2026.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/volkswagen-jetta-2026.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Volkswagen Jetta 2026 em vista dianteira de três quartos"
+    },
+    {
+      "id": "volkswagen-nivus-2027",
+      "name": "Volkswagen Nivus",
+      "year": 2027,
+      "bodyType": "SUV",
+      "filename": "volkswagen-nivus-2027.png",
+      "image": "assets/cars/volkswagen-nivus-2027.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/volkswagen-nivus-2027.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/volkswagen-nivus-2027.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Volkswagen Nivus 2027 em vista dianteira de três quartos"
+    },
+    {
+      "id": "volkswagen-polo-2027",
+      "name": "Volkswagen Polo",
+      "year": 2027,
+      "bodyType": "Hatch",
+      "filename": "volkswagen-polo-2027.png",
+      "image": "assets/cars/volkswagen-polo-2027.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/volkswagen-polo-2027.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/volkswagen-polo-2027.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Volkswagen Polo 2027 em vista dianteira de três quartos"
+    },
+    {
+      "id": "volkswagen-saveiro-2027",
+      "name": "Volkswagen Saveiro",
+      "year": 2027,
+      "bodyType": "Picape",
+      "filename": "volkswagen-saveiro-2027.png",
+      "image": "assets/cars/volkswagen-saveiro-2027.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/volkswagen-saveiro-2027.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/volkswagen-saveiro-2027.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Volkswagen Saveiro 2027 em vista dianteira de três quartos"
+    },
+    {
+      "id": "volkswagen-t-cross-2027",
+      "name": "Volkswagen T-Cross",
+      "year": 2027,
+      "bodyType": "SUV",
+      "filename": "volkswagen-t-cross-2027.png",
+      "image": "assets/cars/volkswagen-t-cross-2027.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/volkswagen-t-cross-2027.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/volkswagen-t-cross-2027.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Volkswagen T-Cross 2027 em vista dianteira de três quartos"
+    },
+    {
+      "id": "volkswagen-taos-2027",
+      "name": "Volkswagen Taos",
+      "year": 2027,
+      "bodyType": "SUV",
+      "filename": "volkswagen-taos-2027.png",
+      "image": "assets/cars/volkswagen-taos-2027.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/volkswagen-taos-2027.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/volkswagen-taos-2027.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Volkswagen Taos 2027 em vista dianteira de três quartos"
+    },
+    {
+      "id": "volkswagen-tera-2027",
+      "name": "Volkswagen Tera",
+      "year": 2027,
+      "bodyType": "SUV",
+      "filename": "volkswagen-tera-2027.png",
+      "image": "assets/cars/volkswagen-tera-2027.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/volkswagen-tera-2027.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/volkswagen-tera-2027.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Volkswagen Tera 2027 em vista dianteira de três quartos"
+    },
+    {
+      "id": "volkswagen-tiguan-2026",
+      "name": "Volkswagen Tiguan",
+      "year": 2026,
+      "bodyType": "SUV",
+      "filename": "volkswagen-tiguan-2026.png",
+      "image": "assets/cars/volkswagen-tiguan-2026.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/volkswagen-tiguan-2026.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/volkswagen-tiguan-2026.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Volkswagen Tiguan 2026 em vista dianteira de três quartos"
     }
   ]
 }
