@@ -1,10 +1,10 @@
 {
   "collection": "Galeria Automotiva — Brasil",
-  "version": 6,
+  "version": 7,
   "manifestUrl": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/cars.json",
   "download": {
     "filename": "galeria-automotiva-todos-png-transparente.zip",
-    "count": 60,
+    "count": 70,
     "format": "ZIP",
     "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/downloads/galeria-automotiva-todos-png-transparente.zip",
     "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/downloads/galeria-automotiva-todos-png-transparente.zip"
@@ -39,6 +39,11 @@
       "collection": "Hyundai, Jeep e Kia",
       "count": 10,
       "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/downloads/hyundai-jeep-kia-carros-png-transparente.zip"
+    },
+    {
+      "collection": "Kia, Leapmotor e Mitsubishi",
+      "count": 10,
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/downloads/kia-leapmotor-mitsubishi-carros-png-transparente.zip"
     }
   ],
   "licenseNote": "Imagens geradas por IA para uso visual ilustrativo.",
@@ -882,6 +887,146 @@
       "height": 941,
       "transparent": true,
       "alt": "Kia EV5 2025 em vista dianteira de três quartos"
+    },
+    {
+      "id": "kia-ev9-2026",
+      "name": "Kia EV9",
+      "year": 2026,
+      "bodyType": "SUV",
+      "filename": "kia-ev9-2026.png",
+      "image": "assets/cars/kia-ev9-2026.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/kia-ev9-2026.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/kia-ev9-2026.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Kia EV9 2026 em vista dianteira de três quartos"
+    },
+    {
+      "id": "kia-niro-2027",
+      "name": "Kia Niro",
+      "year": 2027,
+      "bodyType": "SUV",
+      "filename": "kia-niro-2027.png",
+      "image": "assets/cars/kia-niro-2027.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/kia-niro-2027.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/kia-niro-2027.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Kia Niro 2027 em vista dianteira de três quartos"
+    },
+    {
+      "id": "kia-sorento-2026",
+      "name": "Kia Sorento",
+      "year": 2026,
+      "bodyType": "SUV",
+      "filename": "kia-sorento-2026.png",
+      "image": "assets/cars/kia-sorento-2026.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/kia-sorento-2026.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/kia-sorento-2026.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Kia Sorento 2026 em vista dianteira de três quartos"
+    },
+    {
+      "id": "kia-sportage-2027",
+      "name": "Kia Sportage",
+      "year": 2027,
+      "bodyType": "SUV",
+      "filename": "kia-sportage-2027.png",
+      "image": "assets/cars/kia-sportage-2027.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/kia-sportage-2027.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/kia-sportage-2027.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Kia Sportage 2027 em vista dianteira de três quartos"
+    },
+    {
+      "id": "kia-stonic-2025",
+      "name": "Kia Stonic",
+      "year": 2025,
+      "bodyType": "SUV",
+      "filename": "kia-stonic-2025.png",
+      "image": "assets/cars/kia-stonic-2025.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/kia-stonic-2025.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/kia-stonic-2025.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Kia Stonic 2025 em vista dianteira de três quartos"
+    },
+    {
+      "id": "kia-tasman-2027",
+      "name": "Kia Tasman",
+      "year": 2027,
+      "bodyType": "Picape",
+      "filename": "kia-tasman-2027.png",
+      "image": "assets/cars/kia-tasman-2027.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/kia-tasman-2027.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/kia-tasman-2027.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Kia Tasman 2027 em vista dianteira de três quartos"
+    },
+    {
+      "id": "leapmotor-b10-2027",
+      "name": "Leapmotor B10",
+      "year": 2027,
+      "bodyType": "SUV",
+      "filename": "leapmotor-b10-2027.png",
+      "image": "assets/cars/leapmotor-b10-2027.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/leapmotor-b10-2027.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/leapmotor-b10-2027.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Leapmotor B10 2027 em vista dianteira de três quartos"
+    },
+    {
+      "id": "leapmotor-c10-2026",
+      "name": "Leapmotor C10",
+      "year": 2026,
+      "bodyType": "SUV",
+      "filename": "leapmotor-c10-2026.png",
+      "image": "assets/cars/leapmotor-c10-2026.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/leapmotor-c10-2026.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/leapmotor-c10-2026.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Leapmotor C10 2026 em vista dianteira de três quartos"
+    },
+    {
+      "id": "mitsubishi-eclipse-cross-2027",
+      "name": "Mitsubishi Eclipse Cross",
+      "year": 2027,
+      "bodyType": "SUV",
+      "filename": "mitsubishi-eclipse-cross-2027.png",
+      "image": "assets/cars/mitsubishi-eclipse-cross-2027.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/mitsubishi-eclipse-cross-2027.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/mitsubishi-eclipse-cross-2027.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Mitsubishi Eclipse Cross 2027 em vista dianteira de três quartos"
+    },
+    {
+      "id": "mitsubishi-outlander-2027",
+      "name": "Mitsubishi Outlander",
+      "year": 2027,
+      "bodyType": "SUV",
+      "filename": "mitsubishi-outlander-2027.png",
+      "image": "assets/cars/mitsubishi-outlander-2027.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/mitsubishi-outlander-2027.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/mitsubishi-outlander-2027.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Mitsubishi Outlander 2027 em vista dianteira de três quartos"
     }
   ]
 }
