@@ -1,14 +1,26 @@
 {
-  "collection": "Galeria Automotiva — BYD Brasil",
-  "version": 1,
+  "collection": "Galeria Automotiva — Brasil",
+  "version": 2,
   "manifestUrl": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/cars.json",
   "download": {
-    "filename": "byd-carros-png-transparente.zip",
-    "count": 10,
+    "filename": "galeria-automotiva-todos-png-transparente.zip",
+    "count": 20,
     "format": "ZIP",
-    "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/downloads/byd-carros-png-transparente.zip",
-    "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/downloads/byd-carros-png-transparente.zip"
+    "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/downloads/galeria-automotiva-todos-png-transparente.zip",
+    "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/downloads/galeria-automotiva-todos-png-transparente.zip"
   },
+  "downloads": [
+    {
+      "collection": "BYD",
+      "count": 10,
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/downloads/byd-carros-png-transparente.zip"
+    },
+    {
+      "collection": "Chevrolet e Citroën",
+      "count": 10,
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/downloads/chevrolet-citroen-carros-png-transparente.zip"
+    }
+  ],
   "licenseNote": "Imagens geradas por IA para uso visual ilustrativo.",
   "cars": [
     {
@@ -150,6 +162,146 @@
       "height": 941,
       "transparent": true,
       "alt": "BYD Song Plus em vista dianteira de três quartos"
+    },
+    {
+      "id": "chevrolet-onix-plus-2027",
+      "name": "Chevrolet Onix Plus",
+      "year": 2027,
+      "bodyType": "Sedã",
+      "filename": "chevrolet-onix-plus-2027.png",
+      "image": "assets/cars/chevrolet-onix-plus-2027.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/chevrolet-onix-plus-2027.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/chevrolet-onix-plus-2027.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Chevrolet Onix Plus 2027 em vista dianteira de três quartos"
+    },
+    {
+      "id": "chevrolet-s10-2027",
+      "name": "Chevrolet S10",
+      "year": 2027,
+      "bodyType": "Picape",
+      "filename": "chevrolet-s10-2027.png",
+      "image": "assets/cars/chevrolet-s10-2027.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/chevrolet-s10-2027.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/chevrolet-s10-2027.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Chevrolet S10 2027 em vista dianteira de três quartos"
+    },
+    {
+      "id": "chevrolet-silverado-2026",
+      "name": "Chevrolet Silverado",
+      "year": 2026,
+      "bodyType": "Picape",
+      "filename": "chevrolet-silverado-2026.png",
+      "image": "assets/cars/chevrolet-silverado-2026.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/chevrolet-silverado-2026.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/chevrolet-silverado-2026.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Chevrolet Silverado 2026 em vista dianteira de três quartos"
+    },
+    {
+      "id": "chevrolet-sonic-2027",
+      "name": "Chevrolet Sonic",
+      "year": 2027,
+      "bodyType": "SUV",
+      "filename": "chevrolet-sonic-2027.png",
+      "image": "assets/cars/chevrolet-sonic-2027.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/chevrolet-sonic-2027.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/chevrolet-sonic-2027.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Chevrolet Sonic 2027 em vista dianteira de três quartos"
+    },
+    {
+      "id": "chevrolet-spark-euv-2027",
+      "name": "Chevrolet Spark EUV",
+      "year": 2027,
+      "bodyType": "SUV",
+      "filename": "chevrolet-spark-euv-2027.png",
+      "image": "assets/cars/chevrolet-spark-euv-2027.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/chevrolet-spark-euv-2027.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/chevrolet-spark-euv-2027.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Chevrolet Spark EUV 2027 em vista dianteira de três quartos"
+    },
+    {
+      "id": "chevrolet-spin-2027",
+      "name": "Chevrolet Spin",
+      "year": 2027,
+      "bodyType": "Minivan",
+      "filename": "chevrolet-spin-2027.png",
+      "image": "assets/cars/chevrolet-spin-2027.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/chevrolet-spin-2027.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/chevrolet-spin-2027.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Chevrolet Spin 2027 em vista dianteira de três quartos"
+    },
+    {
+      "id": "chevrolet-tracker-2027",
+      "name": "Chevrolet Tracker",
+      "year": 2027,
+      "bodyType": "SUV",
+      "filename": "chevrolet-tracker-2027.png",
+      "image": "assets/cars/chevrolet-tracker-2027.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/chevrolet-tracker-2027.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/chevrolet-tracker-2027.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Chevrolet Tracker 2027 em vista dianteira de três quartos"
+    },
+    {
+      "id": "chevrolet-trailblazer-2027",
+      "name": "Chevrolet Trailblazer",
+      "year": 2027,
+      "bodyType": "SUV",
+      "filename": "chevrolet-trailblazer-2027.png",
+      "image": "assets/cars/chevrolet-trailblazer-2027.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/chevrolet-trailblazer-2027.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/chevrolet-trailblazer-2027.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Chevrolet Trailblazer 2027 em vista dianteira de três quartos"
+    },
+    {
+      "id": "citroen-aircross-2027",
+      "name": "Citroën Aircross",
+      "year": 2027,
+      "bodyType": "SUV",
+      "filename": "citroen-aircross-2027.png",
+      "image": "assets/cars/citroen-aircross-2027.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/citroen-aircross-2027.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/citroen-aircross-2027.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Citroën Aircross 2027 em vista dianteira de três quartos"
+    },
+    {
+      "id": "citroen-basalt-2027",
+      "name": "Citroën Basalt",
+      "year": 2027,
+      "bodyType": "SUV",
+      "filename": "citroen-basalt-2027.png",
+      "image": "assets/cars/citroen-basalt-2027.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/citroen-basalt-2027.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/citroen-basalt-2027.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Citroën Basalt 2027 em vista dianteira de três quartos"
     }
   ]
 }
