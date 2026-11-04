@@ -1,10 +1,10 @@
 {
   "collection": "Galeria Automotiva — Brasil",
-  "version": 8,
+  "version": 9,
   "manifestUrl": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/cars.json",
   "download": {
     "filename": "galeria-automotiva-todos-png-transparente.zip",
-    "count": 80,
+    "count": 90,
     "format": "ZIP",
     "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/downloads/galeria-automotiva-todos-png-transparente.zip",
     "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/downloads/galeria-automotiva-todos-png-transparente.zip"
@@ -49,6 +49,11 @@
       "collection": "Mitsubishi, Nissan, Peugeot e RAM",
       "count": 10,
       "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/downloads/mitsubishi-nissan-peugeot-ram-carros-png-transparente.zip"
+    },
+    {
+      "collection": "RAM, Renault e Suzuki",
+      "count": 10,
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/downloads/ram-renault-suzuki-carros-png-transparente.zip"
     }
   ],
   "licenseNote": "Imagens geradas por IA para uso visual ilustrativo.",
@@ -1172,6 +1177,146 @@
       "height": 941,
       "transparent": true,
       "alt": "RAM Dakota 2026 em vista dianteira de três quartos"
+    },
+    {
+      "id": "ram-rampage-2027",
+      "name": "RAM Rampage",
+      "year": 2027,
+      "bodyType": "Picape",
+      "filename": "ram-rampage-2027.png",
+      "image": "assets/cars/ram-rampage-2027.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/ram-rampage-2027.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/ram-rampage-2027.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "RAM Rampage 2027 em vista dianteira de três quartos"
+    },
+    {
+      "id": "renault-boreal-2026",
+      "name": "Renault Boreal",
+      "year": 2026,
+      "bodyType": "SUV",
+      "filename": "renault-boreal-2026.png",
+      "image": "assets/cars/renault-boreal-2026.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/renault-boreal-2026.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/renault-boreal-2026.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Renault Boreal 2026 em vista dianteira de três quartos"
+    },
+    {
+      "id": "renault-duster-2027",
+      "name": "Renault Duster",
+      "year": 2027,
+      "bodyType": "SUV",
+      "filename": "renault-duster-2027.png",
+      "image": "assets/cars/renault-duster-2027.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/renault-duster-2027.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/renault-duster-2027.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Renault Duster 2027 em vista dianteira de três quartos"
+    },
+    {
+      "id": "renault-kardian-2027",
+      "name": "Renault Kardian",
+      "year": 2027,
+      "bodyType": "SUV",
+      "filename": "renault-kardian-2027.png",
+      "image": "assets/cars/renault-kardian-2027.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/renault-kardian-2027.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/renault-kardian-2027.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Renault Kardian 2027 em vista dianteira de três quartos"
+    },
+    {
+      "id": "renault-koleos-2027",
+      "name": "Renault Koleos",
+      "year": 2027,
+      "bodyType": "SUV",
+      "filename": "renault-koleos-2027.png",
+      "image": "assets/cars/renault-koleos-2027.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/renault-koleos-2027.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/renault-koleos-2027.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Renault Koleos 2027 em vista dianteira de três quartos"
+    },
+    {
+      "id": "renault-kwid-2027",
+      "name": "Renault Kwid",
+      "year": 2027,
+      "bodyType": "Hatch",
+      "filename": "renault-kwid-2027.png",
+      "image": "assets/cars/renault-kwid-2027.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/renault-kwid-2027.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/renault-kwid-2027.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Renault Kwid 2027 em vista dianteira de três quartos"
+    },
+    {
+      "id": "renault-kwid-e-tech-2026",
+      "name": "Renault Kwid E-Tech",
+      "year": 2026,
+      "bodyType": "Hatch",
+      "filename": "renault-kwid-e-tech-2026.png",
+      "image": "assets/cars/renault-kwid-e-tech-2026.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/renault-kwid-e-tech-2026.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/renault-kwid-e-tech-2026.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Renault Kwid E-Tech 2026 em vista dianteira de três quartos"
+    },
+    {
+      "id": "renault-megane-e-tech-2025",
+      "name": "Renault Megane E-Tech",
+      "year": 2025,
+      "bodyType": "SUV",
+      "filename": "renault-megane-e-tech-2025.png",
+      "image": "assets/cars/renault-megane-e-tech-2025.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/renault-megane-e-tech-2025.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/renault-megane-e-tech-2025.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Renault Megane E-Tech 2025 em vista dianteira de três quartos"
+    },
+    {
+      "id": "renault-oroch-2026",
+      "name": "Renault Oroch",
+      "year": 2026,
+      "bodyType": "Picape",
+      "filename": "renault-oroch-2026.png",
+      "image": "assets/cars/renault-oroch-2026.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/renault-oroch-2026.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/renault-oroch-2026.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Renault Oroch 2026 em vista dianteira de três quartos"
+    },
+    {
+      "id": "suzuki-e-vitara-2027",
+      "name": "Suzuki e Vitara",
+      "year": 2027,
+      "bodyType": "SUV",
+      "filename": "suzuki-e-vitara-2027.png",
+      "image": "assets/cars/suzuki-e-vitara-2027.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/suzuki-e-vitara-2027.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/suzuki-e-vitara-2027.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Suzuki e Vitara 2027 em vista dianteira de três quartos"
     }
   ]
 }
