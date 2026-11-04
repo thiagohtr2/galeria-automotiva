@@ -348,6 +348,8 @@ img { display: block; max-width: 100%; }
   transition: color 180ms ease;
 }
 .manifest-link:hover { color: var(--accent); }
+.manifest-link + .manifest-link { border-top: 0; }
+.download-all { color: var(--accent); }
 
 footer {
   min-height: 110px;

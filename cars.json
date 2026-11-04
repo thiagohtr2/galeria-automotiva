@@ -2,6 +2,13 @@
   "collection": "Galeria Automotiva — BYD Brasil",
   "version": 1,
   "manifestUrl": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/cars.json",
+  "download": {
+    "filename": "byd-carros-png-transparente.zip",
+    "count": 10,
+    "format": "ZIP",
+    "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/downloads/byd-carros-png-transparente.zip",
+    "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/downloads/byd-carros-png-transparente.zip"
+  },
   "licenseNote": "Imagens geradas por IA para uso visual ilustrativo.",
   "cars": [
     {
