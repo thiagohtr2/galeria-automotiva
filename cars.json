@@ -1,10 +1,10 @@
 {
   "collection": "Galeria Automotiva — Brasil",
-  "version": 13,
+  "version": 14,
   "manifestUrl": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/cars.json",
   "download": {
     "filename": "galeria-automotiva-todos-png-transparente.zip",
-    "count": 130,
+    "count": 131,
     "format": "ZIP",
     "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/downloads/galeria-automotiva-todos-png-transparente.zip",
     "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/downloads/galeria-automotiva-todos-png-transparente.zip"
@@ -74,6 +74,11 @@
       "collection": "Citroën e Fiat",
       "count": 10,
       "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/downloads/citroen-fiat-carros-png-transparente.zip"
+    },
+    {
+      "collection": "Mitsubishi e Volkswagen",
+      "count": 2,
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/downloads/mitsubishi-volkswagen-carros-png-transparente.zip"
     }
   ],
   "licenseNote": "Imagens geradas por IA para uso visual ilustrativo.",
@@ -1897,6 +1902,20 @@
       "height": 941,
       "transparent": true,
       "alt": "Fiat Toro 2027 em vista dianteira de três quartos"
+    },
+    {
+      "id": "volkswagen-virtus-2027",
+      "name": "Volkswagen Virtus",
+      "year": 2027,
+      "bodyType": "Sedã",
+      "filename": "volkswagen-virtus-2027.png",
+      "image": "assets/cars/volkswagen-virtus-2027.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/volkswagen-virtus-2027.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/volkswagen-virtus-2027.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Volkswagen Virtus 2027 em vista dianteira de três quartos"
     }
   ]
 }
