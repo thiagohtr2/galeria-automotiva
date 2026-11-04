@@ -27,6 +27,7 @@ Acesse `http://localhost:4173`.
 - Lote Toyota e Volkswagen: `downloads/toyota-volkswagen-carros-png-transparente.zip`
 - Lote Volkswagen: `downloads/volkswagen-carros-png-transparente.zip`
 - Lote BYD e Chevrolet: `downloads/byd-chevrolet-carros-png-transparente.zip`
+- Lote Citroën e Fiat: `downloads/citroen-fiat-carros-png-transparente.zip`
 - Manifesto público: `https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/cars.json`
 - ZIP público completo: `https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/downloads/galeria-automotiva-todos-png-transparente.zip`
 - Site público após habilitar o Pages: `https://thiagohtr2.github.io/galeria-automotiva/`

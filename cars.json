@@ -1,10 +1,10 @@
 {
   "collection": "Galeria Automotiva — Brasil",
-  "version": 12,
+  "version": 13,
   "manifestUrl": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/cars.json",
   "download": {
     "filename": "galeria-automotiva-todos-png-transparente.zip",
-    "count": 120,
+    "count": 130,
     "format": "ZIP",
     "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/downloads/galeria-automotiva-todos-png-transparente.zip",
     "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/downloads/galeria-automotiva-todos-png-transparente.zip"
@@ -69,6 +69,11 @@
       "collection": "BYD e Chevrolet",
       "count": 10,
       "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/downloads/byd-chevrolet-carros-png-transparente.zip"
+    },
+    {
+      "collection": "Citroën e Fiat",
+      "count": 10,
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/downloads/citroen-fiat-carros-png-transparente.zip"
     }
   ],
   "licenseNote": "Imagens geradas por IA para uso visual ilustrativo.",
@@ -1752,6 +1757,146 @@
       "height": 941,
       "transparent": true,
       "alt": "Chevrolet Onix 2027 em vista dianteira de três quartos"
+    },
+    {
+      "id": "citroen-c3-2027",
+      "name": "Citroën C3",
+      "year": 2027,
+      "bodyType": "Hatch",
+      "filename": "citroen-c3-2027.png",
+      "image": "assets/cars/citroen-c3-2027.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/citroen-c3-2027.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/citroen-c3-2027.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Citroën C3 2027 em vista dianteira de três quartos"
+    },
+    {
+      "id": "fiat-500e",
+      "name": "Fiat 500e",
+      "year": "Atual",
+      "bodyType": "Hatch",
+      "filename": "fiat-500e.png",
+      "image": "assets/cars/fiat-500e.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/fiat-500e.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/fiat-500e.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Fiat 500e Atual em vista dianteira de três quartos"
+    },
+    {
+      "id": "fiat-argo-2027",
+      "name": "Fiat Argo",
+      "year": 2027,
+      "bodyType": "Hatch",
+      "filename": "fiat-argo-2027.png",
+      "image": "assets/cars/fiat-argo-2027.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/fiat-argo-2027.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/fiat-argo-2027.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Fiat Argo 2027 em vista dianteira de três quartos"
+    },
+    {
+      "id": "fiat-cronos-2027",
+      "name": "Fiat Cronos",
+      "year": 2027,
+      "bodyType": "Sedã",
+      "filename": "fiat-cronos-2027.png",
+      "image": "assets/cars/fiat-cronos-2027.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/fiat-cronos-2027.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/fiat-cronos-2027.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Fiat Cronos 2027 em vista dianteira de três quartos"
+    },
+    {
+      "id": "fiat-fastback-2027",
+      "name": "Fiat Fastback",
+      "year": 2027,
+      "bodyType": "SUV",
+      "filename": "fiat-fastback-2027.png",
+      "image": "assets/cars/fiat-fastback-2027.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/fiat-fastback-2027.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/fiat-fastback-2027.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Fiat Fastback 2027 em vista dianteira de três quartos"
+    },
+    {
+      "id": "fiat-mobi-2027",
+      "name": "Fiat Mobi",
+      "year": 2027,
+      "bodyType": "Hatch",
+      "filename": "fiat-mobi-2027.png",
+      "image": "assets/cars/fiat-mobi-2027.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/fiat-mobi-2027.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/fiat-mobi-2027.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Fiat Mobi 2027 em vista dianteira de três quartos"
+    },
+    {
+      "id": "fiat-pulse-2027",
+      "name": "Fiat Pulse",
+      "year": 2027,
+      "bodyType": "SUV",
+      "filename": "fiat-pulse-2027.png",
+      "image": "assets/cars/fiat-pulse-2027.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/fiat-pulse-2027.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/fiat-pulse-2027.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Fiat Pulse 2027 em vista dianteira de três quartos"
+    },
+    {
+      "id": "fiat-strada-2027",
+      "name": "Fiat Strada",
+      "year": 2027,
+      "bodyType": "Picape",
+      "filename": "fiat-strada-2027.png",
+      "image": "assets/cars/fiat-strada-2027.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/fiat-strada-2027.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/fiat-strada-2027.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Fiat Strada 2027 em vista dianteira de três quartos"
+    },
+    {
+      "id": "fiat-titano-2026",
+      "name": "Fiat Titano",
+      "year": 2026,
+      "bodyType": "Picape",
+      "filename": "fiat-titano-2026.png",
+      "image": "assets/cars/fiat-titano-2026.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/fiat-titano-2026.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/fiat-titano-2026.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Fiat Titano 2026 em vista dianteira de três quartos"
+    },
+    {
+      "id": "fiat-toro-2027",
+      "name": "Fiat Toro",
+      "year": 2027,
+      "bodyType": "Picape",
+      "filename": "fiat-toro-2027.png",
+      "image": "assets/cars/fiat-toro-2027.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/fiat-toro-2027.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/fiat-toro-2027.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Fiat Toro 2027 em vista dianteira de três quartos"
     }
   ]
 }
