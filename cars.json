@@ -1,10 +1,10 @@
 {
   "collection": "Galeria Automotiva — Brasil",
-  "version": 2,
+  "version": 3,
   "manifestUrl": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/cars.json",
   "download": {
     "filename": "galeria-automotiva-todos-png-transparente.zip",
-    "count": 20,
+    "count": 30,
     "format": "ZIP",
     "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/downloads/galeria-automotiva-todos-png-transparente.zip",
     "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/downloads/galeria-automotiva-todos-png-transparente.zip"
@@ -19,6 +19,11 @@
       "collection": "Chevrolet e Citroën",
       "count": 10,
       "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/downloads/chevrolet-citroen-carros-png-transparente.zip"
+    },
+    {
+      "collection": "Ford e GWM",
+      "count": 10,
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/downloads/ford-gwm-carros-png-transparente.zip"
     }
   ],
   "licenseNote": "Imagens geradas por IA para uso visual ilustrativo.",
@@ -302,6 +307,146 @@
       "height": 941,
       "transparent": true,
       "alt": "Citroën Basalt 2027 em vista dianteira de três quartos"
+    },
+    {
+      "id": "ford-bronco-sport-2026",
+      "name": "Ford Bronco Sport",
+      "year": 2026,
+      "bodyType": "SUV",
+      "filename": "ford-bronco-sport-2026.png",
+      "image": "assets/cars/ford-bronco-sport-2026.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/ford-bronco-sport-2026.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/ford-bronco-sport-2026.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Ford Bronco Sport 2026 em vista dianteira de três quartos"
+    },
+    {
+      "id": "ford-f-150-2026",
+      "name": "Ford F-150",
+      "year": 2026,
+      "bodyType": "Picape",
+      "filename": "ford-f-150-2026.png",
+      "image": "assets/cars/ford-f-150-2026.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/ford-f-150-2026.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/ford-f-150-2026.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Ford F-150 2026 em vista dianteira de três quartos"
+    },
+    {
+      "id": "ford-maverick-2026",
+      "name": "Ford Maverick",
+      "year": 2026,
+      "bodyType": "Picape",
+      "filename": "ford-maverick-2026.png",
+      "image": "assets/cars/ford-maverick-2026.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/ford-maverick-2026.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/ford-maverick-2026.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Ford Maverick 2026 em vista dianteira de três quartos"
+    },
+    {
+      "id": "ford-mustang-2026",
+      "name": "Ford Mustang",
+      "year": 2026,
+      "bodyType": "Esportivo",
+      "filename": "ford-mustang-2026.png",
+      "image": "assets/cars/ford-mustang-2026.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/ford-mustang-2026.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/ford-mustang-2026.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Ford Mustang 2026 em vista dianteira de três quartos"
+    },
+    {
+      "id": "ford-mustang-mach-e",
+      "name": "Ford Mustang Mach-E",
+      "year": "Atual",
+      "bodyType": "SUV",
+      "filename": "ford-mustang-mach-e.png",
+      "image": "assets/cars/ford-mustang-mach-e.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/ford-mustang-mach-e.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/ford-mustang-mach-e.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Ford Mustang Mach-E em vista dianteira de três quartos"
+    },
+    {
+      "id": "ford-ranger-2027",
+      "name": "Ford Ranger",
+      "year": 2027,
+      "bodyType": "Picape",
+      "filename": "ford-ranger-2027.png",
+      "image": "assets/cars/ford-ranger-2027.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/ford-ranger-2027.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/ford-ranger-2027.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Ford Ranger 2027 em vista dianteira de três quartos"
+    },
+    {
+      "id": "ford-territory-2026",
+      "name": "Ford Territory",
+      "year": 2026,
+      "bodyType": "SUV",
+      "filename": "ford-territory-2026.png",
+      "image": "assets/cars/ford-territory-2026.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/ford-territory-2026.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/ford-territory-2026.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Ford Territory 2026 em vista dianteira de três quartos"
+    },
+    {
+      "id": "gwm-haval-h6-2027",
+      "name": "GWM Haval H6",
+      "year": 2027,
+      "bodyType": "SUV",
+      "filename": "gwm-haval-h6-2027.png",
+      "image": "assets/cars/gwm-haval-h6-2027.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/gwm-haval-h6-2027.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/gwm-haval-h6-2027.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "GWM Haval H6 2027 em vista dianteira de três quartos"
+    },
+    {
+      "id": "gwm-haval-h7-2027",
+      "name": "GWM Haval H7",
+      "year": 2027,
+      "bodyType": "SUV",
+      "filename": "gwm-haval-h7-2027.png",
+      "image": "assets/cars/gwm-haval-h7-2027.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/gwm-haval-h7-2027.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/gwm-haval-h7-2027.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "GWM Haval H7 2027 em vista dianteira de três quartos"
+    },
+    {
+      "id": "gwm-haval-h9-2027",
+      "name": "GWM Haval H9",
+      "year": 2027,
+      "bodyType": "SUV",
+      "filename": "gwm-haval-h9-2027.png",
+      "image": "assets/cars/gwm-haval-h9-2027.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/gwm-haval-h9-2027.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/gwm-haval-h9-2027.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "GWM Haval H9 2027 em vista dianteira de três quartos"
     }
   ]
 }
