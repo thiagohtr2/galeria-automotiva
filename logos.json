@@ -1,6 +1,6 @@
 {
   "collection": "Logotipos de marcas automotivas",
-  "version": 1,
+  "version": 2,
   "download": {
     "filename": "logotipos-marcas-automotivas-png-transparente.zip",
     "count": 19,
@@ -9,6 +9,7 @@
     "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/downloads/logotipos-marcas-automotivas-png-transparente.zip"
   },
   "trademarkNote": "As marcas pertencem aos seus respectivos titulares; arquivos preparados para identificação visual.",
+  "provenanceNote": "Marcas vetoriais e emblemas de referência normalizados para PNG; nenhuma logomarca foi gerada por IA.",
   "logos": [
     {
       "id": "byd",
