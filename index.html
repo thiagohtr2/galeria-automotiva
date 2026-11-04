@@ -1,0 +1,131 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Acervo visual de carros BYD com imagens PNG transparentes e acesso direto para agentes."
+    />
+    <meta name="theme-color" content="#0b0d0e" />
+    <title>Galeria Automotiva — BYD Collection</title>
+    <link rel="icon" href="favicon.svg" type="image/svg+xml" />
+    <link rel="stylesheet" href="styles.css" />
+    <script src="script.js" defer></script>
+  </head>
+  <body>
+    <div class="site-shell">
+      <header class="topbar">
+        <a class="brand" href="#top" aria-label="Galeria Automotiva — início">
+          <span class="brand-mark" aria-hidden="true">GA</span>
+          <span>Galeria Automotiva</span>
+        </a>
+        <div class="topbar-meta">
+          <span class="status-dot" aria-hidden="true"></span>
+          Acervo disponível
+        </div>
+      </header>
+
+      <main id="top">
+        <section class="hero" aria-labelledby="hero-title">
+          <div class="hero-copy">
+            <p class="eyebrow">BYD Collection · Brasil</p>
+            <h1 id="hero-title">Design em movimento,<br /><em>pronto para criar.</em></h1>
+            <p class="hero-description">
+              Uma biblioteca visual consistente de veículos em alta resolução, recortados e prontos para uso.
+            </p>
+          </div>
+
+          <dl class="hero-stats" aria-label="Resumo do acervo">
+            <div>
+              <dt id="collection-count">10</dt>
+              <dd>veículos</dd>
+            </div>
+            <div>
+              <dt>PNG</dt>
+              <dd>transparente</dd>
+            </div>
+            <div>
+              <dt>16:9</dt>
+              <dd>composição</dd>
+            </div>
+          </dl>
+        </section>
+
+        <section class="collection" aria-labelledby="collection-title">
+          <div class="section-heading">
+            <div>
+              <p class="section-index">01 / Acervo</p>
+              <h2 id="collection-title">Escolha um modelo</h2>
+            </div>
+            <p class="results-count" aria-live="polite"><span id="visible-count">10</span> resultados</p>
+          </div>
+
+          <div class="toolbar">
+            <label class="search-field">
+              <span class="sr-only">Buscar um modelo</span>
+              <svg aria-hidden="true" viewBox="0 0 24 24">
+                <circle cx="11" cy="11" r="6.5"></circle>
+                <path d="m16 16 4 4"></path>
+              </svg>
+              <input id="search" type="search" placeholder="Buscar modelo" autocomplete="off" />
+            </label>
+            <div class="filters" aria-label="Filtrar por carroceria">
+              <button class="filter is-active" type="button" data-filter="Todos">Todos</button>
+              <button class="filter" type="button" data-filter="SUV">SUV</button>
+              <button class="filter" type="button" data-filter="Hatch">Hatch</button>
+              <button class="filter" type="button" data-filter="Sedã">Sedã</button>
+              <button class="filter" type="button" data-filter="Picape">Picape</button>
+            </div>
+          </div>
+
+          <div id="car-grid" class="car-grid" aria-live="polite"></div>
+          <div id="empty-state" class="empty-state" hidden>
+            <span>Nenhum veículo encontrado.</span>
+            <button id="clear-filters" type="button">Limpar filtros</button>
+          </div>
+        </section>
+
+        <section class="machine-access" aria-labelledby="access-title">
+          <div>
+            <p class="section-index">02 / Acesso direto</p>
+            <h2 id="access-title">Feito para pessoas.<br />Aberto para agentes.</h2>
+          </div>
+          <div class="access-copy">
+            <p>
+              O manifesto JSON lista toda a coleção, com metadados e caminhos estáveis. Use-o para encontrar cada
+              arquivo sem depender da interface.
+            </p>
+            <a class="manifest-link" href="cars.json">
+              <span>Consultar cars.json</span>
+              <span aria-hidden="true">↗</span>
+            </a>
+          </div>
+        </section>
+      </main>
+
+      <footer>
+        <span>Galeria Automotiva © 2026</span>
+        <span>Imagens geradas por IA · uso ilustrativo</span>
+      </footer>
+    </div>
+
+    <dialog id="viewer" class="viewer">
+      <button class="viewer-close" type="button" aria-label="Fechar visualização">×</button>
+      <div class="viewer-stage checkerboard">
+        <img id="viewer-image" src="" alt="" />
+      </div>
+      <div class="viewer-details">
+        <div>
+          <p id="viewer-meta" class="viewer-meta"></p>
+          <h2 id="viewer-title"></h2>
+          <p id="viewer-file" class="viewer-file"></p>
+        </div>
+        <div class="viewer-actions">
+          <button id="copy-link" class="button button-secondary" type="button">Copiar URL</button>
+          <a id="download-image" class="button button-primary" href="" download>Baixar PNG</a>
+        </div>
+      </div>
+    </dialog>
+  </body>
+</html>
