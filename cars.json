@@ -1,10 +1,10 @@
 {
   "collection": "Galeria Automotiva — Brasil",
-  "version": 4,
+  "version": 5,
   "manifestUrl": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/cars.json",
   "download": {
     "filename": "galeria-automotiva-todos-png-transparente.zip",
-    "count": 40,
+    "count": 50,
     "format": "ZIP",
     "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/downloads/galeria-automotiva-todos-png-transparente.zip",
     "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/downloads/galeria-automotiva-todos-png-transparente.zip"
@@ -29,6 +29,11 @@
       "collection": "GWM e Honda",
       "count": 10,
       "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/downloads/gwm-honda-carros-png-transparente.zip"
+    },
+    {
+      "collection": "Honda e Hyundai",
+      "count": 10,
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/downloads/honda-hyundai-carros-png-transparente.zip"
     }
   ],
   "licenseNote": "Imagens geradas por IA para uso visual ilustrativo.",
@@ -592,6 +597,146 @@
       "height": 941,
       "transparent": true,
       "alt": "Honda CR-V 2026 em vista dianteira de três quartos"
+    },
+    {
+      "id": "honda-hr-v-2027",
+      "name": "Honda HR-V",
+      "year": 2027,
+      "bodyType": "SUV",
+      "filename": "honda-hr-v-2027.png",
+      "image": "assets/cars/honda-hr-v-2027.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/honda-hr-v-2027.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/honda-hr-v-2027.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Honda HR-V 2027 em vista dianteira de três quartos"
+    },
+    {
+      "id": "honda-prelude-2027",
+      "name": "Honda Prelude",
+      "year": 2027,
+      "bodyType": "Esportivo",
+      "filename": "honda-prelude-2027.png",
+      "image": "assets/cars/honda-prelude-2027.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/honda-prelude-2027.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/honda-prelude-2027.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Honda Prelude 2027 em vista dianteira de três quartos"
+    },
+    {
+      "id": "honda-wr-v-2027",
+      "name": "Honda WR-V",
+      "year": 2027,
+      "bodyType": "SUV",
+      "filename": "honda-wr-v-2027.png",
+      "image": "assets/cars/honda-wr-v-2027.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/honda-wr-v-2027.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/honda-wr-v-2027.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Honda WR-V 2027 em vista dianteira de três quartos"
+    },
+    {
+      "id": "honda-zr-v-2026",
+      "name": "Honda ZR-V",
+      "year": 2026,
+      "bodyType": "SUV",
+      "filename": "honda-zr-v-2026.png",
+      "image": "assets/cars/honda-zr-v-2026.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/honda-zr-v-2026.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/honda-zr-v-2026.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Honda ZR-V 2026 em vista dianteira de três quartos"
+    },
+    {
+      "id": "hyundai-creta-2027",
+      "name": "Hyundai Creta",
+      "year": 2027,
+      "bodyType": "SUV",
+      "filename": "hyundai-creta-2027.png",
+      "image": "assets/cars/hyundai-creta-2027.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/hyundai-creta-2027.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/hyundai-creta-2027.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Hyundai Creta 2027 em vista dianteira de três quartos"
+    },
+    {
+      "id": "hyundai-hb20-2027",
+      "name": "Hyundai HB20",
+      "year": 2027,
+      "bodyType": "Hatch",
+      "filename": "hyundai-hb20-2027.png",
+      "image": "assets/cars/hyundai-hb20-2027.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/hyundai-hb20-2027.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/hyundai-hb20-2027.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Hyundai HB20 2027 em vista dianteira de três quartos"
+    },
+    {
+      "id": "hyundai-hb20s-2027",
+      "name": "Hyundai HB20S",
+      "year": 2027,
+      "bodyType": "Sedã",
+      "filename": "hyundai-hb20s-2027.png",
+      "image": "assets/cars/hyundai-hb20s-2027.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/hyundai-hb20s-2027.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/hyundai-hb20s-2027.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Hyundai HB20S 2027 em vista dianteira de três quartos"
+    },
+    {
+      "id": "hyundai-i20-2027",
+      "name": "Hyundai i20",
+      "year": 2027,
+      "bodyType": "Hatch",
+      "filename": "hyundai-i20-2027.png",
+      "image": "assets/cars/hyundai-i20-2027.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/hyundai-i20-2027.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/hyundai-i20-2027.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Hyundai i20 2027 em vista dianteira de três quartos"
+    },
+    {
+      "id": "hyundai-ioniq-5-2025",
+      "name": "Hyundai Ioniq 5",
+      "year": 2025,
+      "bodyType": "SUV",
+      "filename": "hyundai-ioniq-5-2025.png",
+      "image": "assets/cars/hyundai-ioniq-5-2025.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/hyundai-ioniq-5-2025.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/hyundai-ioniq-5-2025.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Hyundai Ioniq 5 2025 em vista dianteira de três quartos"
+    },
+    {
+      "id": "hyundai-kona-2026",
+      "name": "Hyundai Kona",
+      "year": 2026,
+      "bodyType": "SUV",
+      "filename": "hyundai-kona-2026.png",
+      "image": "assets/cars/hyundai-kona-2026.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/hyundai-kona-2026.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/hyundai-kona-2026.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Hyundai Kona 2026 em vista dianteira de três quartos"
     }
   ]
 }
