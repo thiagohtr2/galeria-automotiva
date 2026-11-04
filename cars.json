@@ -1,10 +1,10 @@
 {
   "collection": "Galeria Automotiva — Brasil",
-  "version": 5,
+  "version": 6,
   "manifestUrl": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/cars.json",
   "download": {
     "filename": "galeria-automotiva-todos-png-transparente.zip",
-    "count": 50,
+    "count": 60,
     "format": "ZIP",
     "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/downloads/galeria-automotiva-todos-png-transparente.zip",
     "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/downloads/galeria-automotiva-todos-png-transparente.zip"
@@ -34,6 +34,11 @@
       "collection": "Honda e Hyundai",
       "count": 10,
       "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/downloads/honda-hyundai-carros-png-transparente.zip"
+    },
+    {
+      "collection": "Hyundai, Jeep e Kia",
+      "count": 10,
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/downloads/hyundai-jeep-kia-carros-png-transparente.zip"
     }
   ],
   "licenseNote": "Imagens geradas por IA para uso visual ilustrativo.",
@@ -737,6 +742,146 @@
       "height": 941,
       "transparent": true,
       "alt": "Hyundai Kona 2026 em vista dianteira de três quartos"
+    },
+    {
+      "id": "hyundai-palisade-2026",
+      "name": "Hyundai Palisade",
+      "year": 2026,
+      "bodyType": "SUV",
+      "filename": "hyundai-palisade-2026.png",
+      "image": "assets/cars/hyundai-palisade-2026.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/hyundai-palisade-2026.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/hyundai-palisade-2026.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Hyundai Palisade 2026 em vista dianteira de três quartos"
+    },
+    {
+      "id": "hyundai-tucson-2025",
+      "name": "Hyundai Tucson",
+      "year": 2025,
+      "bodyType": "SUV",
+      "filename": "hyundai-tucson-2025.png",
+      "image": "assets/cars/hyundai-tucson-2025.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/hyundai-tucson-2025.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/hyundai-tucson-2025.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Hyundai Tucson 2025 em vista dianteira de três quartos"
+    },
+    {
+      "id": "jeep-avenger-2027",
+      "name": "Jeep Avenger",
+      "year": 2027,
+      "bodyType": "SUV",
+      "filename": "jeep-avenger-2027.png",
+      "image": "assets/cars/jeep-avenger-2027.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/jeep-avenger-2027.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/jeep-avenger-2027.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Jeep Avenger 2027 em vista dianteira de três quartos"
+    },
+    {
+      "id": "jeep-commander-2027",
+      "name": "Jeep Commander",
+      "year": 2027,
+      "bodyType": "SUV",
+      "filename": "jeep-commander-2027.png",
+      "image": "assets/cars/jeep-commander-2027.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/jeep-commander-2027.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/jeep-commander-2027.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Jeep Commander 2027 em vista dianteira de três quartos"
+    },
+    {
+      "id": "jeep-compass-2027",
+      "name": "Jeep Compass",
+      "year": 2027,
+      "bodyType": "SUV",
+      "filename": "jeep-compass-2027.png",
+      "image": "assets/cars/jeep-compass-2027.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/jeep-compass-2027.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/jeep-compass-2027.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Jeep Compass 2027 em vista dianteira de três quartos"
+    },
+    {
+      "id": "jeep-gladiator",
+      "name": "Jeep Gladiator",
+      "year": "Atual",
+      "bodyType": "Picape",
+      "filename": "jeep-gladiator.png",
+      "image": "assets/cars/jeep-gladiator.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/jeep-gladiator.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/jeep-gladiator.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Jeep Gladiator em vista dianteira de três quartos"
+    },
+    {
+      "id": "jeep-renegade-2027",
+      "name": "Jeep Renegade",
+      "year": 2027,
+      "bodyType": "SUV",
+      "filename": "jeep-renegade-2027.png",
+      "image": "assets/cars/jeep-renegade-2027.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/jeep-renegade-2027.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/jeep-renegade-2027.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Jeep Renegade 2027 em vista dianteira de três quartos"
+    },
+    {
+      "id": "jeep-wrangler",
+      "name": "Jeep Wrangler",
+      "year": "Atual",
+      "bodyType": "SUV",
+      "filename": "jeep-wrangler.png",
+      "image": "assets/cars/jeep-wrangler.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/jeep-wrangler.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/jeep-wrangler.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Jeep Wrangler em vista dianteira de três quartos"
+    },
+    {
+      "id": "kia-carnival-2027",
+      "name": "Kia Carnival",
+      "year": 2027,
+      "bodyType": "Minivan",
+      "filename": "kia-carnival-2027.png",
+      "image": "assets/cars/kia-carnival-2027.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/kia-carnival-2027.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/kia-carnival-2027.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Kia Carnival 2027 em vista dianteira de três quartos"
+    },
+    {
+      "id": "kia-ev5-2025",
+      "name": "Kia EV5",
+      "year": 2025,
+      "bodyType": "SUV",
+      "filename": "kia-ev5-2025.png",
+      "image": "assets/cars/kia-ev5-2025.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/kia-ev5-2025.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/kia-ev5-2025.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Kia EV5 2025 em vista dianteira de três quartos"
     }
   ]
 }
