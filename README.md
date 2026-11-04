@@ -31,6 +31,8 @@ Acesse `http://localhost:4173`.
 - Lote Mitsubishi e Volkswagen: `downloads/mitsubishi-volkswagen-carros-png-transparente.zip`
 - Manifesto público: `https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/cars.json`
 - ZIP público completo: `https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/downloads/galeria-automotiva-todos-png-transparente.zip`
+- Logotipos das marcas: `downloads/logotipos-marcas-automotivas-png-transparente.zip`
+- Manifesto dos logotipos: `logos.json`
 - Site público após habilitar o Pages: `https://thiagohtr2.github.io/galeria-automotiva/`
 
 Cada item do manifesto inclui nome, ano, carroceria, dimensões, transparência e URL pública da imagem.

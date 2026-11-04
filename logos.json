@@ -1,0 +1,204 @@
+{
+  "collection": "Logotipos de marcas automotivas",
+  "version": 1,
+  "download": {
+    "filename": "logotipos-marcas-automotivas-png-transparente.zip",
+    "count": 19,
+    "format": "ZIP",
+    "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/downloads/logotipos-marcas-automotivas-png-transparente.zip",
+    "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/downloads/logotipos-marcas-automotivas-png-transparente.zip"
+  },
+  "trademarkNote": "As marcas pertencem aos seus respectivos titulares; arquivos preparados para identificação visual.",
+  "logos": [
+    {
+      "id": "byd",
+      "name": "BYD",
+      "filename": "logo-byd.png",
+      "image": "assets/logos/logo-byd.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/logos/logo-byd.png",
+      "width": 512,
+      "height": 512,
+      "transparent": true
+    },
+    {
+      "id": "chevrolet",
+      "name": "Chevrolet",
+      "filename": "logo-chevrolet.png",
+      "image": "assets/logos/logo-chevrolet.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/logos/logo-chevrolet.png",
+      "width": 512,
+      "height": 512,
+      "transparent": true
+    },
+    {
+      "id": "citroen",
+      "name": "Citroën",
+      "filename": "logo-citroen.png",
+      "image": "assets/logos/logo-citroen.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/logos/logo-citroen.png",
+      "width": 512,
+      "height": 512,
+      "transparent": true
+    },
+    {
+      "id": "fiat",
+      "name": "Fiat",
+      "filename": "logo-fiat.png",
+      "image": "assets/logos/logo-fiat.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/logos/logo-fiat.png",
+      "width": 512,
+      "height": 512,
+      "transparent": true
+    },
+    {
+      "id": "ford",
+      "name": "Ford",
+      "filename": "logo-ford.png",
+      "image": "assets/logos/logo-ford.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/logos/logo-ford.png",
+      "width": 512,
+      "height": 512,
+      "transparent": true
+    },
+    {
+      "id": "gwm",
+      "name": "GWM",
+      "filename": "logo-gwm.png",
+      "image": "assets/logos/logo-gwm.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/logos/logo-gwm.png",
+      "width": 512,
+      "height": 512,
+      "transparent": true
+    },
+    {
+      "id": "honda",
+      "name": "Honda",
+      "filename": "logo-honda.png",
+      "image": "assets/logos/logo-honda.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/logos/logo-honda.png",
+      "width": 512,
+      "height": 512,
+      "transparent": true
+    },
+    {
+      "id": "hyundai",
+      "name": "Hyundai",
+      "filename": "logo-hyundai.png",
+      "image": "assets/logos/logo-hyundai.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/logos/logo-hyundai.png",
+      "width": 512,
+      "height": 512,
+      "transparent": true
+    },
+    {
+      "id": "jeep",
+      "name": "Jeep",
+      "filename": "logo-jeep.png",
+      "image": "assets/logos/logo-jeep.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/logos/logo-jeep.png",
+      "width": 512,
+      "height": 512,
+      "transparent": true
+    },
+    {
+      "id": "kia",
+      "name": "Kia",
+      "filename": "logo-kia.png",
+      "image": "assets/logos/logo-kia.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/logos/logo-kia.png",
+      "width": 512,
+      "height": 512,
+      "transparent": true
+    },
+    {
+      "id": "leapmotor",
+      "name": "Leapmotor",
+      "filename": "logo-leapmotor.png",
+      "image": "assets/logos/logo-leapmotor.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/logos/logo-leapmotor.png",
+      "width": 512,
+      "height": 512,
+      "transparent": true
+    },
+    {
+      "id": "mitsubishi",
+      "name": "Mitsubishi",
+      "filename": "logo-mitsubishi.png",
+      "image": "assets/logos/logo-mitsubishi.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/logos/logo-mitsubishi.png",
+      "width": 512,
+      "height": 512,
+      "transparent": true
+    },
+    {
+      "id": "nissan",
+      "name": "Nissan",
+      "filename": "logo-nissan.png",
+      "image": "assets/logos/logo-nissan.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/logos/logo-nissan.png",
+      "width": 512,
+      "height": 512,
+      "transparent": true
+    },
+    {
+      "id": "peugeot",
+      "name": "Peugeot",
+      "filename": "logo-peugeot.png",
+      "image": "assets/logos/logo-peugeot.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/logos/logo-peugeot.png",
+      "width": 512,
+      "height": 512,
+      "transparent": true
+    },
+    {
+      "id": "ram",
+      "name": "RAM",
+      "filename": "logo-ram.png",
+      "image": "assets/logos/logo-ram.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/logos/logo-ram.png",
+      "width": 512,
+      "height": 512,
+      "transparent": true
+    },
+    {
+      "id": "renault",
+      "name": "Renault",
+      "filename": "logo-renault.png",
+      "image": "assets/logos/logo-renault.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/logos/logo-renault.png",
+      "width": 512,
+      "height": 512,
+      "transparent": true
+    },
+    {
+      "id": "suzuki",
+      "name": "Suzuki",
+      "filename": "logo-suzuki.png",
+      "image": "assets/logos/logo-suzuki.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/logos/logo-suzuki.png",
+      "width": 512,
+      "height": 512,
+      "transparent": true
+    },
+    {
+      "id": "toyota",
+      "name": "Toyota",
+      "filename": "logo-toyota.png",
+      "image": "assets/logos/logo-toyota.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/logos/logo-toyota.png",
+      "width": 512,
+      "height": 512,
+      "transparent": true
+    },
+    {
+      "id": "volkswagen",
+      "name": "Volkswagen",
+      "filename": "logo-volkswagen.png",
+      "image": "assets/logos/logo-volkswagen.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/logos/logo-volkswagen.png",
+      "width": 512,
+      "height": 512,
+      "transparent": true
+    }
+  ]
+}
