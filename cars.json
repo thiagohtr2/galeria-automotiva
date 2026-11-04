@@ -1,10 +1,10 @@
 {
   "collection": "Galeria Automotiva — Brasil",
-  "version": 11,
+  "version": 12,
   "manifestUrl": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/cars.json",
   "download": {
     "filename": "galeria-automotiva-todos-png-transparente.zip",
-    "count": 110,
+    "count": 120,
     "format": "ZIP",
     "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/downloads/galeria-automotiva-todos-png-transparente.zip",
     "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/downloads/galeria-automotiva-todos-png-transparente.zip"
@@ -64,6 +64,11 @@
       "collection": "Volkswagen",
       "count": 10,
       "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/downloads/volkswagen-carros-png-transparente.zip"
+    },
+    {
+      "collection": "BYD e Chevrolet",
+      "count": 10,
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/downloads/byd-chevrolet-carros-png-transparente.zip"
     }
   ],
   "licenseNote": "Imagens geradas por IA para uso visual ilustrativo.",
@@ -1607,6 +1612,146 @@
       "height": 941,
       "transparent": true,
       "alt": "Volkswagen Tiguan 2026 em vista dianteira de três quartos"
+    },
+    {
+      "id": "byd-song-plus-premium-2026",
+      "name": "BYD Song Plus Premium",
+      "year": 2026,
+      "bodyType": "SUV",
+      "filename": "byd-song-plus-premium-2026.png",
+      "image": "assets/cars/byd-song-plus-premium-2026.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/byd-song-plus-premium-2026.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/byd-song-plus-premium-2026.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "BYD Song Plus Premium 2026 em vista dianteira de três quartos"
+    },
+    {
+      "id": "byd-song-pro-2027",
+      "name": "BYD Song Pro",
+      "year": 2027,
+      "bodyType": "SUV",
+      "filename": "byd-song-pro-2027.png",
+      "image": "assets/cars/byd-song-pro-2027.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/byd-song-pro-2027.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/byd-song-pro-2027.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "BYD Song Pro 2027 em vista dianteira de três quartos"
+    },
+    {
+      "id": "byd-tan-2025",
+      "name": "BYD Tan",
+      "year": 2025,
+      "bodyType": "SUV",
+      "filename": "byd-tan-2025.png",
+      "image": "assets/cars/byd-tan-2025.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/byd-tan-2025.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/byd-tan-2025.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "BYD Tan 2025 em vista dianteira de três quartos"
+    },
+    {
+      "id": "byd-yuan-plus-2026",
+      "name": "BYD Yuan Plus",
+      "year": 2026,
+      "bodyType": "SUV",
+      "filename": "byd-yuan-plus-2026.png",
+      "image": "assets/cars/byd-yuan-plus-2026.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/byd-yuan-plus-2026.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/byd-yuan-plus-2026.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "BYD Yuan Plus 2026 em vista dianteira de três quartos"
+    },
+    {
+      "id": "byd-yuan-pro-2026",
+      "name": "BYD Yuan Pro",
+      "year": 2026,
+      "bodyType": "SUV",
+      "filename": "byd-yuan-pro-2026.png",
+      "image": "assets/cars/byd-yuan-pro-2026.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/byd-yuan-pro-2026.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/byd-yuan-pro-2026.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "BYD Yuan Pro 2026 em vista dianteira de três quartos"
+    },
+    {
+      "id": "chevrolet-blazer-ev-2025",
+      "name": "Chevrolet Blazer EV",
+      "year": 2025,
+      "bodyType": "SUV",
+      "filename": "chevrolet-blazer-ev-2025.png",
+      "image": "assets/cars/chevrolet-blazer-ev-2025.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/chevrolet-blazer-ev-2025.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/chevrolet-blazer-ev-2025.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Chevrolet Blazer EV 2025 em vista dianteira de três quartos"
+    },
+    {
+      "id": "chevrolet-captiva-ev-2026",
+      "name": "Chevrolet Captiva EV",
+      "year": 2026,
+      "bodyType": "SUV",
+      "filename": "chevrolet-captiva-ev-2026.png",
+      "image": "assets/cars/chevrolet-captiva-ev-2026.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/chevrolet-captiva-ev-2026.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/chevrolet-captiva-ev-2026.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Chevrolet Captiva EV 2026 em vista dianteira de três quartos"
+    },
+    {
+      "id": "chevrolet-equinox-2026",
+      "name": "Chevrolet Equinox",
+      "year": 2026,
+      "bodyType": "SUV",
+      "filename": "chevrolet-equinox-2026.png",
+      "image": "assets/cars/chevrolet-equinox-2026.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/chevrolet-equinox-2026.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/chevrolet-equinox-2026.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Chevrolet Equinox 2026 em vista dianteira de três quartos"
+    },
+    {
+      "id": "chevrolet-montana-2027",
+      "name": "Chevrolet Montana",
+      "year": 2027,
+      "bodyType": "Picape",
+      "filename": "chevrolet-montana-2027.png",
+      "image": "assets/cars/chevrolet-montana-2027.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/chevrolet-montana-2027.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/chevrolet-montana-2027.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Chevrolet Montana 2027 em vista dianteira de três quartos"
+    },
+    {
+      "id": "chevrolet-onix-2027",
+      "name": "Chevrolet Onix",
+      "year": 2027,
+      "bodyType": "Hatch",
+      "filename": "chevrolet-onix-2027.png",
+      "image": "assets/cars/chevrolet-onix-2027.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/chevrolet-onix-2027.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/chevrolet-onix-2027.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Chevrolet Onix 2027 em vista dianteira de três quartos"
     }
   ]
 }
