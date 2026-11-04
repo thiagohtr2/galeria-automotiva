@@ -1,10 +1,10 @@
 {
   "collection": "Galeria Automotiva — Brasil",
-  "version": 7,
+  "version": 8,
   "manifestUrl": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/cars.json",
   "download": {
     "filename": "galeria-automotiva-todos-png-transparente.zip",
-    "count": 70,
+    "count": 80,
     "format": "ZIP",
     "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/downloads/galeria-automotiva-todos-png-transparente.zip",
     "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/downloads/galeria-automotiva-todos-png-transparente.zip"
@@ -44,6 +44,11 @@
       "collection": "Kia, Leapmotor e Mitsubishi",
       "count": 10,
       "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/downloads/kia-leapmotor-mitsubishi-carros-png-transparente.zip"
+    },
+    {
+      "collection": "Mitsubishi, Nissan, Peugeot e RAM",
+      "count": 10,
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/downloads/mitsubishi-nissan-peugeot-ram-carros-png-transparente.zip"
     }
   ],
   "licenseNote": "Imagens geradas por IA para uso visual ilustrativo.",
@@ -1027,6 +1032,146 @@
       "height": 941,
       "transparent": true,
       "alt": "Mitsubishi Outlander 2027 em vista dianteira de três quartos"
+    },
+    {
+      "id": "mitsubishi-triton-2027",
+      "name": "Mitsubishi Triton",
+      "year": 2027,
+      "bodyType": "Picape",
+      "filename": "mitsubishi-triton-2027.png",
+      "image": "assets/cars/mitsubishi-triton-2027.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/mitsubishi-triton-2027.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/mitsubishi-triton-2027.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Mitsubishi Triton 2027 em vista dianteira de três quartos"
+    },
+    {
+      "id": "nissan-kait-2027",
+      "name": "Nissan Kait",
+      "year": 2027,
+      "bodyType": "SUV",
+      "filename": "nissan-kait-2027.png",
+      "image": "assets/cars/nissan-kait-2027.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/nissan-kait-2027.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/nissan-kait-2027.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Nissan Kait 2027 em vista dianteira de três quartos"
+    },
+    {
+      "id": "nissan-kicks-2027",
+      "name": "Nissan Kicks",
+      "year": 2027,
+      "bodyType": "SUV",
+      "filename": "nissan-kicks-2027.png",
+      "image": "assets/cars/nissan-kicks-2027.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/nissan-kicks-2027.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/nissan-kicks-2027.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Nissan Kicks 2027 em vista dianteira de três quartos"
+    },
+    {
+      "id": "nissan-versa-2027",
+      "name": "Nissan Versa",
+      "year": 2027,
+      "bodyType": "Sedã",
+      "filename": "nissan-versa-2027.png",
+      "image": "assets/cars/nissan-versa-2027.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/nissan-versa-2027.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/nissan-versa-2027.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Nissan Versa 2027 em vista dianteira de três quartos"
+    },
+    {
+      "id": "peugeot-2008-2027",
+      "name": "Peugeot 2008",
+      "year": 2027,
+      "bodyType": "SUV",
+      "filename": "peugeot-2008-2027.png",
+      "image": "assets/cars/peugeot-2008-2027.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/peugeot-2008-2027.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/peugeot-2008-2027.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Peugeot 2008 2027 em vista dianteira de três quartos"
+    },
+    {
+      "id": "peugeot-208-2027",
+      "name": "Peugeot 208",
+      "year": 2027,
+      "bodyType": "Hatch",
+      "filename": "peugeot-208-2027.png",
+      "image": "assets/cars/peugeot-208-2027.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/peugeot-208-2027.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/peugeot-208-2027.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Peugeot 208 2027 em vista dianteira de três quartos"
+    },
+    {
+      "id": "ram-1500-2026",
+      "name": "RAM 1500",
+      "year": 2026,
+      "bodyType": "Picape",
+      "filename": "ram-1500-2026.png",
+      "image": "assets/cars/ram-1500-2026.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/ram-1500-2026.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/ram-1500-2026.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "RAM 1500 2026 em vista dianteira de três quartos"
+    },
+    {
+      "id": "ram-2500-2026",
+      "name": "RAM 2500",
+      "year": 2026,
+      "bodyType": "Picape",
+      "filename": "ram-2500-2026.png",
+      "image": "assets/cars/ram-2500-2026.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/ram-2500-2026.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/ram-2500-2026.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "RAM 2500 2026 em vista dianteira de três quartos"
+    },
+    {
+      "id": "ram-3500-2026",
+      "name": "RAM 3500",
+      "year": 2026,
+      "bodyType": "Picape",
+      "filename": "ram-3500-2026.png",
+      "image": "assets/cars/ram-3500-2026.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/ram-3500-2026.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/ram-3500-2026.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "RAM 3500 2026 em vista dianteira de três quartos"
+    },
+    {
+      "id": "ram-dakota-2026",
+      "name": "RAM Dakota",
+      "year": 2026,
+      "bodyType": "Picape",
+      "filename": "ram-dakota-2026.png",
+      "image": "assets/cars/ram-dakota-2026.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/ram-dakota-2026.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/ram-dakota-2026.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "RAM Dakota 2026 em vista dianteira de três quartos"
     }
   ]
 }
