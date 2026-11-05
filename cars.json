@@ -1,10 +1,10 @@
 {
   "collection": "Galeria Automotiva — Brasil",
-  "version": 14,
+  "version": 15,
   "manifestUrl": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/cars.json",
   "download": {
     "filename": "galeria-automotiva-todos-png-transparente.zip",
-    "count": 131,
+    "count": 141,
     "format": "ZIP",
     "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/downloads/galeria-automotiva-todos-png-transparente.zip",
     "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/downloads/galeria-automotiva-todos-png-transparente.zip"
@@ -79,6 +79,11 @@
       "collection": "Mitsubishi e Volkswagen",
       "count": 2,
       "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/downloads/mitsubishi-volkswagen-carros-png-transparente.zip"
+    },
+    {
+      "collection": "Agrale, Aston Martin e Audi",
+      "count": 10,
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/downloads/agrale-aston-martin-audi-carros-png-transparente.zip"
     }
   ],
   "licenseNote": "Imagens geradas por IA para uso visual ilustrativo.",
@@ -1916,6 +1921,146 @@
       "height": 941,
       "transparent": true,
       "alt": "Volkswagen Virtus 2027 em vista dianteira de três quartos"
+    },
+    {
+      "id": "agrale-marrua-am200-mo",
+      "name": "Agrale Marruá AM200 MO",
+      "year": "Atual",
+      "bodyType": "Van",
+      "filename": "agrale-marrua-am200-mo.png",
+      "image": "assets/cars/agrale-marrua-am200-mo.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/agrale-marrua-am200-mo.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/agrale-marrua-am200-mo.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Agrale Marruá AM200 MO em vista dianteira de três quartos"
+    },
+    {
+      "id": "agrale-marrua-am250-2027",
+      "name": "Agrale Marruá AM250",
+      "year": 2027,
+      "bodyType": "Picape",
+      "filename": "agrale-marrua-am250-2027.png",
+      "image": "assets/cars/agrale-marrua-am250-2027.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/agrale-marrua-am250-2027.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/agrale-marrua-am250-2027.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Agrale Marruá AM250 em vista dianteira de três quartos"
+    },
+    {
+      "id": "aston-martin-db12-2026",
+      "name": "Aston Martin DB12",
+      "year": 2026,
+      "bodyType": "Esportivo",
+      "filename": "aston-martin-db12-2026.png",
+      "image": "assets/cars/aston-martin-db12-2026.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/aston-martin-db12-2026.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/aston-martin-db12-2026.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Aston Martin DB12 em vista dianteira de três quartos"
+    },
+    {
+      "id": "aston-martin-dbx-2026",
+      "name": "Aston Martin DBX",
+      "year": 2026,
+      "bodyType": "SUV",
+      "filename": "aston-martin-dbx-2026.png",
+      "image": "assets/cars/aston-martin-dbx-2026.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/aston-martin-dbx-2026.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/aston-martin-dbx-2026.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Aston Martin DBX em vista dianteira de três quartos"
+    },
+    {
+      "id": "aston-martin-vanquish-2026",
+      "name": "Aston Martin Vanquish",
+      "year": 2026,
+      "bodyType": "Esportivo",
+      "filename": "aston-martin-vanquish-2026.png",
+      "image": "assets/cars/aston-martin-vanquish-2026.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/aston-martin-vanquish-2026.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/aston-martin-vanquish-2026.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Aston Martin Vanquish em vista dianteira de três quartos"
+    },
+    {
+      "id": "aston-martin-vantage-2026",
+      "name": "Aston Martin Vantage",
+      "year": 2026,
+      "bodyType": "Esportivo",
+      "filename": "aston-martin-vantage-2026.png",
+      "image": "assets/cars/aston-martin-vantage-2026.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/aston-martin-vantage-2026.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/aston-martin-vantage-2026.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Aston Martin Vantage em vista dianteira de três quartos"
+    },
+    {
+      "id": "audi-a3-sedan-2026",
+      "name": "Audi A3 Sedan",
+      "year": 2026,
+      "bodyType": "Sedã",
+      "filename": "audi-a3-sedan-2026.png",
+      "image": "assets/cars/audi-a3-sedan-2026.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/audi-a3-sedan-2026.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/audi-a3-sedan-2026.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Audi A3 Sedan em vista dianteira de três quartos"
+    },
+    {
+      "id": "audi-a3-sportback-2026",
+      "name": "Audi A3 Sportback",
+      "year": 2026,
+      "bodyType": "Hatch compacto",
+      "filename": "audi-a3-sportback-2026.png",
+      "image": "assets/cars/audi-a3-sportback-2026.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/audi-a3-sportback-2026.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/audi-a3-sportback-2026.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Audi A3 Sportback em vista dianteira de três quartos"
+    },
+    {
+      "id": "audi-a5-2026",
+      "name": "Audi A5",
+      "year": 2026,
+      "bodyType": "Sedã",
+      "filename": "audi-a5-2026.png",
+      "image": "assets/cars/audi-a5-2026.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/audi-a5-2026.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/audi-a5-2026.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Audi A5 em vista dianteira de três quartos"
+    },
+    {
+      "id": "audi-a5-avant-2026",
+      "name": "Audi A5 Avant",
+      "year": 2026,
+      "bodyType": "Perua",
+      "filename": "audi-a5-avant-2026.png",
+      "image": "assets/cars/audi-a5-avant-2026.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/audi-a5-avant-2026.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/audi-a5-avant-2026.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Audi A5 Avant em vista dianteira de três quartos"
     }
   ]
 }
