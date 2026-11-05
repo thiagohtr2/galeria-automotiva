@@ -1,9 +1,9 @@
 {
   "collection": "Logotipos de marcas automotivas",
-  "version": 2,
+  "version": 3,
   "download": {
     "filename": "logotipos-marcas-automotivas-png-transparente.zip",
-    "count": 19,
+    "count": 49,
     "format": "ZIP",
     "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/downloads/logotipos-marcas-automotivas-png-transparente.zip",
     "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/downloads/logotipos-marcas-automotivas-png-transparente.zip"
@@ -200,6 +200,328 @@
       "width": 512,
       "height": 512,
       "transparent": true
+    },
+    {
+      "id": "agrale",
+      "name": "Agrale",
+      "filename": "logo-agrale.png",
+      "image": "assets/logos/logo-agrale.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/logos/logo-agrale.png",
+      "width": 512,
+      "height": 512,
+      "transparent": true
+    },
+    {
+      "id": "astonmartin",
+      "name": "Aston Martin",
+      "filename": "logo-astonmartin.png",
+      "image": "assets/logos/logo-astonmartin.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/logos/logo-astonmartin.png",
+      "width": 512,
+      "height": 512,
+      "transparent": true
+    },
+    {
+      "id": "audi",
+      "name": "Audi",
+      "filename": "logo-audi.png",
+      "image": "assets/logos/logo-audi.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/logos/logo-audi.png",
+      "width": 512,
+      "height": 512,
+      "transparent": true
+    },
+    {
+      "id": "avatr",
+      "name": "Avatr",
+      "filename": "logo-avatr.png",
+      "image": "assets/logos/logo-avatr.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/logos/logo-avatr.png",
+      "width": 512,
+      "height": 512,
+      "transparent": true
+    },
+    {
+      "id": "bmw",
+      "name": "BMW",
+      "filename": "logo-bmw.png",
+      "image": "assets/logos/logo-bmw.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/logos/logo-bmw.png",
+      "width": 512,
+      "height": 512,
+      "transparent": true
+    },
+    {
+      "id": "caoachangan",
+      "name": "CAOA Changan",
+      "filename": "logo-caoachangan.png",
+      "image": "assets/logos/logo-caoachangan.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/logos/logo-caoachangan.png",
+      "width": 512,
+      "height": 512,
+      "transparent": true
+    },
+    {
+      "id": "chery",
+      "name": "Chery",
+      "filename": "logo-chery.png",
+      "image": "assets/logos/logo-chery.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/logos/logo-chery.png",
+      "width": 512,
+      "height": 512,
+      "transparent": true
+    },
+    {
+      "id": "denza",
+      "name": "Denza",
+      "filename": "logo-denza.png",
+      "image": "assets/logos/logo-denza.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/logos/logo-denza.png",
+      "width": 512,
+      "height": 512,
+      "transparent": true
+    },
+    {
+      "id": "ferrari",
+      "name": "Ferrari",
+      "filename": "logo-ferrari.png",
+      "image": "assets/logos/logo-ferrari.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/logos/logo-ferrari.png",
+      "width": 512,
+      "height": 512,
+      "transparent": true
+    },
+    {
+      "id": "foton",
+      "name": "Foton",
+      "filename": "logo-foton.png",
+      "image": "assets/logos/logo-foton.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/logos/logo-foton.png",
+      "width": 512,
+      "height": 512,
+      "transparent": true
+    },
+    {
+      "id": "gac",
+      "name": "GAC",
+      "filename": "logo-gac.png",
+      "image": "assets/logos/logo-gac.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/logos/logo-gac.png",
+      "width": 512,
+      "height": 512,
+      "transparent": true
+    },
+    {
+      "id": "geely",
+      "name": "Geely",
+      "filename": "logo-geely.png",
+      "image": "assets/logos/logo-geely.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/logos/logo-geely.png",
+      "width": 512,
+      "height": 512,
+      "transparent": true
+    },
+    {
+      "id": "hitechelectric",
+      "name": "Hitech Electric",
+      "filename": "logo-hitechelectric.png",
+      "image": "assets/logos/logo-hitechelectric.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/logos/logo-hitechelectric.png",
+      "width": 512,
+      "height": 512,
+      "transparent": true
+    },
+    {
+      "id": "iveco",
+      "name": "Iveco",
+      "filename": "logo-iveco.png",
+      "image": "assets/logos/logo-iveco.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/logos/logo-iveco.png",
+      "width": 512,
+      "height": 512,
+      "transparent": true
+    },
+    {
+      "id": "jac",
+      "name": "JAC",
+      "filename": "logo-jac.png",
+      "image": "assets/logos/logo-jac.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/logos/logo-jac.png",
+      "width": 512,
+      "height": 512,
+      "transparent": true
+    },
+    {
+      "id": "jaecoo",
+      "name": "Jaecoo",
+      "filename": "logo-jaecoo.png",
+      "image": "assets/logos/logo-jaecoo.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/logos/logo-jaecoo.png",
+      "width": 512,
+      "height": 512,
+      "transparent": true
+    },
+    {
+      "id": "jetour",
+      "name": "Jetour",
+      "filename": "logo-jetour.png",
+      "image": "assets/logos/logo-jetour.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/logos/logo-jetour.png",
+      "width": 512,
+      "height": 512,
+      "transparent": true
+    },
+    {
+      "id": "lamborghini",
+      "name": "Lamborghini",
+      "filename": "logo-lamborghini.png",
+      "image": "assets/logos/logo-lamborghini.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/logos/logo-lamborghini.png",
+      "width": 512,
+      "height": 512,
+      "transparent": true
+    },
+    {
+      "id": "landrover",
+      "name": "Land Rover",
+      "filename": "logo-landrover.png",
+      "image": "assets/logos/logo-landrover.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/logos/logo-landrover.png",
+      "width": 512,
+      "height": 512,
+      "transparent": true
+    },
+    {
+      "id": "lexus",
+      "name": "Lexus",
+      "filename": "logo-lexus.png",
+      "image": "assets/logos/logo-lexus.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/logos/logo-lexus.png",
+      "width": 512,
+      "height": 512,
+      "transparent": true
+    },
+    {
+      "id": "lotus",
+      "name": "Lotus",
+      "filename": "logo-lotus.png",
+      "image": "assets/logos/logo-lotus.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/logos/logo-lotus.png",
+      "width": 512,
+      "height": 512,
+      "transparent": true
+    },
+    {
+      "id": "mclaren",
+      "name": "McLaren",
+      "filename": "logo-mclaren.png",
+      "image": "assets/logos/logo-mclaren.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/logos/logo-mclaren.png",
+      "width": 512,
+      "height": 512,
+      "transparent": true
+    },
+    {
+      "id": "mercedesbenz",
+      "name": "Mercedes-Benz",
+      "filename": "logo-mercedesbenz.png",
+      "image": "assets/logos/logo-mercedesbenz.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/logos/logo-mercedesbenz.png",
+      "width": 512,
+      "height": 512,
+      "transparent": true
+    },
+    {
+      "id": "mg",
+      "name": "MG",
+      "filename": "logo-mg.png",
+      "image": "assets/logos/logo-mg.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/logos/logo-mg.png",
+      "width": 512,
+      "height": 512,
+      "transparent": true
+    },
+    {
+      "id": "mini",
+      "name": "MINI",
+      "filename": "logo-mini.png",
+      "image": "assets/logos/logo-mini.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/logos/logo-mini.png",
+      "width": 512,
+      "height": 512,
+      "transparent": true
+    },
+    {
+      "id": "omoda",
+      "name": "Omoda",
+      "filename": "logo-omoda.png",
+      "image": "assets/logos/logo-omoda.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/logos/logo-omoda.png",
+      "width": 512,
+      "height": 512,
+      "transparent": true
+    },
+    {
+      "id": "porsche",
+      "name": "Porsche",
+      "filename": "logo-porsche.png",
+      "image": "assets/logos/logo-porsche.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/logos/logo-porsche.png",
+      "width": 512,
+      "height": 512,
+      "transparent": true
+    },
+    {
+      "id": "shineray",
+      "name": "Shineray",
+      "filename": "logo-shineray.png",
+      "image": "assets/logos/logo-shineray.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/logos/logo-shineray.png",
+      "width": 512,
+      "height": 512,
+      "transparent": true
+    },
+    {
+      "id": "volvo",
+      "name": "Volvo",
+      "filename": "logo-volvo.png",
+      "image": "assets/logos/logo-volvo.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/logos/logo-volvo.png",
+      "width": 512,
+      "height": 512,
+      "transparent": true
+    },
+    {
+      "id": "zeekr",
+      "name": "Zeekr",
+      "filename": "logo-zeekr.png",
+      "image": "assets/logos/logo-zeekr.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/logos/logo-zeekr.png",
+      "width": 512,
+      "height": 512,
+      "transparent": true
+    }
+  ],
+  "downloads": [
+    {
+      "label": "Coleção completa",
+      "filename": "logotipos-marcas-automotivas-png-transparente.zip",
+      "count": 49,
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/downloads/logotipos-marcas-automotivas-png-transparente.zip"
+    },
+    {
+      "label": "Lote 2",
+      "filename": "logotipos-marcas-automotivas-lote-2-png-transparente.zip",
+      "count": 30,
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/downloads/logotipos-marcas-automotivas-lote-2-png-transparente.zip"
+    }
+  ],
+  "pending": [
+    {
+      "id": "effa",
+      "name": "EFFA",
+      "filename": "logo-effa.png",
+      "reason": "Arquivo oficial verificável ainda não localizado; nenhuma arte substituta foi criada."
     }
   ]
 }
