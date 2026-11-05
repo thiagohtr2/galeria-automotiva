@@ -32,6 +32,7 @@ Acesse `http://localhost:4173`.
 - Lote Agrale, Aston Martin e Audi: `downloads/agrale-aston-martin-audi-carros-png-transparente.zip`
 - Lote Audi A6, Q3, Q5, Q6, Q7 e Q8: `downloads/audi-a6-q3-q5-q6-q7-q8-carros-png-transparente.zip`
 - Lote Audi RS, Avatr e BMW elétricos: `downloads/audi-rs-avatr-bmw-eletricos-carros-png-transparente.zip`
+- Lote BMW M, Série 1–5, X1 e X2: `downloads/bmw-m-series-x1-x2-carros-png-transparente.zip`
 - Manifesto público: `https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/cars.json`
 - ZIP público completo: `https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/downloads/galeria-automotiva-todos-png-transparente.zip`
 - Logotipos das marcas (49 arquivos): `downloads/logotipos-marcas-automotivas-png-transparente.zip`
