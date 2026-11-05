@@ -469,3 +469,16 @@ footer {
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after { scroll-behavior: auto !important; transition-duration: 0.01ms !important; }
 }
+
+/* Link to the batch-download center */
+.topbar-actions { display: inline-flex; align-items: center; gap: 22px; }
+.topbar-downloads {
+  display: inline-flex; align-items: center; min-height: 39px; padding: 0 17px;
+  border: 1px solid var(--line-strong); border-radius: 999px; color: var(--accent);
+  font-size: .76rem; font-weight: 750; letter-spacing: .02em; white-space: nowrap;
+}
+.topbar-downloads:hover { background: var(--accent); color: var(--accent-ink); }
+@media (max-width: 760px) {
+  .topbar-actions { gap: 8px; }
+  .topbar-downloads { padding: 0 12px; min-height: 35px; font-size: .7rem; }
+}
