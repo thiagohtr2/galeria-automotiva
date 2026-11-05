@@ -145,7 +145,7 @@
         selected=data.cars.slice(cursor,cursor+batch.count);
         cursor+=batch.count;
       }
-      return {number:number,title:batch.collection,count:batch.count,url:batch.url,cars:selected,date:dates[number]||null};
+      return {number:number,title:batch.collection,count:batch.count,url:batch.url,cars:selected,date:batch.createdAt||batch.date||dates[number]||null};
     });
   }
   function createLot(b){
