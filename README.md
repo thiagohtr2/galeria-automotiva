@@ -10,6 +10,13 @@ python3 -m http.server 4173
 
 Acesse `http://localhost:4173`.
 
+## Painel de enquadramento
+
+- Abra [Enquadrar imagens](enquadramento.html) e use **Anterior** e **Próximo** para navegar pelos veículos do manifesto.
+- **Ajustar ao grid** centraliza a área visível e aplica a maior escala que cabe na margem de segurança de 8% da largura. A escala mantém a proporção do veículo.
+- **OK, salvar aprovação** grava a revisão neste navegador. **Baixar PNG aprovado** gera a imagem transparente de 1672 × 941 px com o enquadramento salvo.
+- **Exportar aprovações** baixa um JSON para aplicar as revisões no repositório. Cada registro identifica o PNG de origem pelo SHA-256 e informa o retângulo de desenho no quadro final em pixels. O catálogo é atualizado separadamente.
+
 ## Acesso programático
 
 - Manifesto: `cars.json`

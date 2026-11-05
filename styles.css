@@ -470,7 +470,7 @@ footer {
   *, *::before, *::after { scroll-behavior: auto !important; transition-duration: 0.01ms !important; }
 }
 
-/* Link to the batch-download center */
+/* Acervo e ferramentas */
 .topbar-actions { display: inline-flex; align-items: center; gap: 22px; }
 .topbar-downloads {
   display: inline-flex; align-items: center; min-height: 39px; padding: 0 17px;
@@ -481,4 +481,9 @@ footer {
 @media (max-width: 760px) {
   .topbar-actions { gap: 8px; }
   .topbar-downloads { padding: 0 12px; min-height: 35px; font-size: .7rem; }
+}
+@media (max-width: 540px) {
+  .topbar-actions { flex-direction: column; align-items: flex-end; gap: 4px; }
+  .topbar-actions .topbar-meta { display: none; }
+  .topbar-downloads { min-height: 30px; }
 }
