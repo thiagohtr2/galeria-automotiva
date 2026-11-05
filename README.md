@@ -47,3 +47,36 @@ Cada item do manifesto inclui nome, ano, carroceria, dimensões, transparência 
 O ZIP completo usa PNG-8 otimizado para download; os arquivos individuais e os ZIPs por lote preservam PNG em cores completas.
 
 As imagens deste acervo foram geradas por IA e devem ser usadas como material visual ilustrativo.
+
+## Central de downloads por lote
+
+- Site: [downloads.html](downloads.html) (publicado no GitHub Pages depois de habilitar Pages).
+- Galeria de veículos: [index.html](index.html).
+- Os lotes são construídos no navegador a partir de cars.json (downloads + cars).
+- Os lotes são apresentados do mais recente para o mais antigo, com busca por marca/modelo e botões de download.
+- A coleção atual tem **191 imagens PNG de carros**, **49 logotipos** e **20 lotes de carros** (19 lotes de 10, um lote complementar de 2). O pacote completo está em downloads/galeria-automotiva-todos-png-transparente.zip.
+- Os lotes 19 e 20, publicados em 4/11/2026 (horário da Bahia), são:
+  - 19: downloads/bmw-x3-x5-x6-x7-changan-chery-carros-png-transparente.zip
+  - 20: downloads/chery-citroen-denza-effa-ferrari-carros-png-transparente.zip
+
+### Como adicionar o próximo lote sem perder os anteriores
+
+1. Gerar e revisar os novos arquivos PNG, com um nome exclusivo por modelo.
+2. Enviar os PNGs para assets/cars/ (sem substituir os existentes por engano).
+3. Criar um novo arquivo ZIP em downloads/ com o novo lote.
+4. Acrescentar os veículos ao final do array cars em cars.json, mantendo id, name, year, bodyType, filename, image, url, width, height, transparent e alt.
+5. Acrescentar uma entrada **no final** de downloads com collection, count, url e createdAt (timestamp ISO 8601), na mesma ordem dos veículos adicionados.
+6. Atualizar download.count, o ZIP geral downloads/galeria-automotiva-todos-png-transparente.zip e, se desejar, a versão do manifesto.
+7. Conferir que cars.json é JSON válido, que o total informado coincide com os arquivos armazenados e que os novos ZIPs são acessíveis.
+
+**Importante:** a página descobre novas entradas assim que os arquivos/manifestos são publicados no repositório, mas **não publica automaticamente imagens criadas no ChatGPT**. É necessário enviar os arquivos para o GitHub. O lote 14 é uma exceção histórica: o ZIP possui dois arquivos e o catálogo lista apenas o novo Volkswagen Virtus, pois o outro arquivo já existia na coleção.
+
+### Publicação do site
+
+O workflow .github/workflows/pages.yml está configurado para publicar no GitHub Pages, mas a instalação inicial do Pages requer ativação pelo proprietário do repositório:
+
+1. Abrir Settings → Pages em thiagohtr2/galeria-automotiva.
+2. Selecionar **GitHub Actions** em Build and deployment → Source.
+3. Abrir Actions → Deploy gallery to GitHub Pages → Run workflow para publicar, ou realizar um novo commit.
+
+A falha anterior ocorreu na etapa Configure Pages com "Resource not accessible by integration", porque o site Pages ainda não estava habilitado.
