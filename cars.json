@@ -1,13 +1,14 @@
 {
   "collection": "Galeria Automotiva — Brasil",
-  "version": 15,
+  "version": 16,
   "manifestUrl": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/cars.json",
   "download": {
     "filename": "galeria-automotiva-todos-png-transparente.zip",
-    "count": 141,
+    "count": 151,
     "format": "ZIP",
     "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/downloads/galeria-automotiva-todos-png-transparente.zip",
-    "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/downloads/galeria-automotiva-todos-png-transparente.zip"
+    "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/downloads/galeria-automotiva-todos-png-transparente.zip",
+    "imageEncoding": "PNG-8 otimizado para web"
   },
   "downloads": [
     {
@@ -84,6 +85,11 @@
       "collection": "Agrale, Aston Martin e Audi",
       "count": 10,
       "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/downloads/agrale-aston-martin-audi-carros-png-transparente.zip"
+    },
+    {
+      "collection": "Audi A6, Q3, Q5, Q6, Q7 e Q8",
+      "count": 10,
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/downloads/audi-a6-q3-q5-q6-q7-q8-carros-png-transparente.zip"
     }
   ],
   "licenseNote": "Imagens geradas por IA para uso visual ilustrativo.",
@@ -2061,6 +2067,146 @@
       "height": 941,
       "transparent": true,
       "alt": "Audi A5 Avant em vista dianteira de três quartos"
+    },
+    {
+      "id": "audi-a6-avant-e-tron-2027",
+      "name": "Audi A6 Avant e-tron",
+      "year": 2027,
+      "bodyType": "Perua",
+      "filename": "audi-a6-avant-e-tron-2027.png",
+      "image": "assets/cars/audi-a6-avant-e-tron-2027.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/audi-a6-avant-e-tron-2027.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/audi-a6-avant-e-tron-2027.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Audi A6 Avant e-tron em vista dianteira de três quartos"
+    },
+    {
+      "id": "audi-a6-sportback-e-tron-2026",
+      "name": "Audi A6 Sportback e-tron",
+      "year": 2026,
+      "bodyType": "Sedã",
+      "filename": "audi-a6-sportback-e-tron-2026.png",
+      "image": "assets/cars/audi-a6-sportback-e-tron-2026.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/audi-a6-sportback-e-tron-2026.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/audi-a6-sportback-e-tron-2026.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Audi A6 Sportback e-tron em vista dianteira de três quartos"
+    },
+    {
+      "id": "audi-q3-2026",
+      "name": "Audi Q3",
+      "year": 2026,
+      "bodyType": "SUV",
+      "filename": "audi-q3-2026.png",
+      "image": "assets/cars/audi-q3-2026.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/audi-q3-2026.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/audi-q3-2026.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Audi Q3 em vista dianteira de três quartos"
+    },
+    {
+      "id": "audi-q3-sportback-2026",
+      "name": "Audi Q3 Sportback",
+      "year": 2026,
+      "bodyType": "SUV",
+      "filename": "audi-q3-sportback-2026.png",
+      "image": "assets/cars/audi-q3-sportback-2026.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/audi-q3-sportback-2026.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/audi-q3-sportback-2026.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Audi Q3 Sportback em vista dianteira de três quartos"
+    },
+    {
+      "id": "audi-q5-2026",
+      "name": "Audi Q5",
+      "year": 2026,
+      "bodyType": "SUV",
+      "filename": "audi-q5-2026.png",
+      "image": "assets/cars/audi-q5-2026.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/audi-q5-2026.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/audi-q5-2026.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Audi Q5 em vista dianteira de três quartos"
+    },
+    {
+      "id": "audi-q5-sportback-2026",
+      "name": "Audi Q5 Sportback",
+      "year": 2026,
+      "bodyType": "SUV",
+      "filename": "audi-q5-sportback-2026.png",
+      "image": "assets/cars/audi-q5-sportback-2026.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/audi-q5-sportback-2026.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/audi-q5-sportback-2026.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Audi Q5 Sportback em vista dianteira de três quartos"
+    },
+    {
+      "id": "audi-q6-e-tron-2026",
+      "name": "Audi Q6 e-tron",
+      "year": 2026,
+      "bodyType": "SUV",
+      "filename": "audi-q6-e-tron-2026.png",
+      "image": "assets/cars/audi-q6-e-tron-2026.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/audi-q6-e-tron-2026.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/audi-q6-e-tron-2026.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Audi Q6 e-tron em vista dianteira de três quartos"
+    },
+    {
+      "id": "audi-q6-sportback-e-tron-2026",
+      "name": "Audi Q6 Sportback e-tron",
+      "year": 2026,
+      "bodyType": "SUV",
+      "filename": "audi-q6-sportback-e-tron-2026.png",
+      "image": "assets/cars/audi-q6-sportback-e-tron-2026.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/audi-q6-sportback-e-tron-2026.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/audi-q6-sportback-e-tron-2026.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Audi Q6 Sportback e-tron em vista dianteira de três quartos"
+    },
+    {
+      "id": "audi-q7-2026",
+      "name": "Audi Q7",
+      "year": 2026,
+      "bodyType": "SUV",
+      "filename": "audi-q7-2026.png",
+      "image": "assets/cars/audi-q7-2026.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/audi-q7-2026.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/audi-q7-2026.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Audi Q7 em vista dianteira de três quartos"
+    },
+    {
+      "id": "audi-q8-2026",
+      "name": "Audi Q8",
+      "year": 2026,
+      "bodyType": "SUV",
+      "filename": "audi-q8-2026.png",
+      "image": "assets/cars/audi-q8-2026.png",
+      "url": "https://raw.githubusercontent.com/thiagohtr2/galeria-automotiva/main/assets/cars/audi-q8-2026.png",
+      "pageUrl": "https://thiagohtr2.github.io/galeria-automotiva/assets/cars/audi-q8-2026.png",
+      "width": 1672,
+      "height": 941,
+      "transparent": true,
+      "alt": "Audi Q8 em vista dianteira de três quartos"
     }
   ]
 }
